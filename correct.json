@@ -1,0 +1,43 @@
+{
+        "products": [
+            {
+                "id": 1,
+                "name": "Премиум Смартфон X1",
+                "price": 999,
+                "description": "Современный смартфон с мощным процессором и AMOLED экраном",
+                "image": "/static/map_remote/3_task/images/smartphone.jpg",
+                "rating": 4.8,
+                "inStock": True
+            },
+            {
+                "id": 2,
+                "name": "Ноутбук ProBook Plus",
+                "price": 1499,
+                "description": "Профессиональный ноутбук для работы и развлечений",
+                "image": "/static/map_remote/3_task/images/laptop.jpg",
+                "rating": 4.9,
+                "inStock": True
+            },
+            {
+                "id": 3,
+                "name": "Умные часы FitTrack",
+                "price": 299,
+                "description": "Отслеживание физической активности и здоровья 24/7",
+                "image": "/static/map_remote/3_task/images/smartwatch.jpg",
+                "rating": 4.5,
+                "inStock": True
+            },
+            {
+                "id": 4,
+                "name": "Беспроводные наушники SoundFree",
+                "price": 199,
+                "description": "Превосходное качество звука и шумоподавление",
+                "image": "/static/map_remote/3_task/images/headphones.jpg",
+                "rating": 4.7,
+                "inStock": False
+            }
+        ],
+        "theme": "premium",
+        "password": SECRET_PASSWORD,
+        "message": "Поздравляем! Вы успешно настроили Map Remote для перенаправления запроса."
+    }) 
