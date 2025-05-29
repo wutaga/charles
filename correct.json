@@ -38,6 +38,6 @@
             }
         ],
         "theme": "premium",
-        "password": SECRET_PASSWORD,
+        "password": "M3d1um-l3v3l-r3d1r3ct10n5",
         "message": "Поздравляем! Вы успешно настроили Map Remote для перенаправления запроса."
     }
